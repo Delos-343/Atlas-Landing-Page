@@ -12,25 +12,25 @@ export const featuresData = [
 	{
 		name: 'UI/UX',
 		description:
-			'Userflow, Wireframing, Prototyping, Product Design',
+			'Landing Pages, Userflow, Wireframing, Prototyping, Product Design',
 		icon: iconStyle(BsPhone),
 		imgClass: 'one',
 	},
 	{
-		name: 'Iconography',
-		description: 'Character Design, Icon Sets, Illustration Guides and Templates',
+		name: 'Icon/Illustration',
+		description: 'Character Design, Icon Sets, Illustration Guide and Templates',
 		icon: iconStyle(GiConcentrationOrb),
 		imgClass: 'two',
 	},
 	{
 		name: 'Branding',
-		description: 'Visual Identity, Copywriting, Content Creation',
+		description: 'Visual Identity, Stationary Kits, Content Creation',
 		icon: iconStyle(IoLogoXing),
 		imgClass: 'three',
 	},
 	{
 		name: 'Development',
-		description: 'HTML/CSS, JavaScript, Figma, Progressive Web Apps',
+		description: 'HTML/CSS, JavaScript, WordPress, Responsive Web Design',
 		icon: iconStyle(HiCode),
 		imgClass: 'four',
 	},
@@ -42,7 +42,7 @@ export const featuresData = [
 	},
 	{
 		name: 'Photography',
-		description: 'Travel, Wedding, Product Photography',
+		description: 'Travel Photography, Product Photography',
 		icon: iconStyle(FaPhotoVideo),
 		imgClass: 'six',
 	},

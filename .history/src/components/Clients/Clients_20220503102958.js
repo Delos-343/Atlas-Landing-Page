@@ -20,7 +20,7 @@ const Clients = () => {
 			<Container>
 				<ClientTextWrapper>
 					<ClientTitle>Our Partners</ClientTitle>
-					<ClientText>We have undertaken multiple projects on a global scale.</ClientText>
+					<ClientText>We have undertaken multiple projects on a gloabl scale.</ClientText>
 				</ClientTextWrapper>
 
 				<ClientRow>

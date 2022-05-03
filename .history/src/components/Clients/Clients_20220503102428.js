@@ -19,8 +19,8 @@ const Clients = () => {
     <ClientSection id="clients">
 			<Container>
 				<ClientTextWrapper>
-					<ClientTitle>Our Partners</ClientTitle>
-					<ClientText>We have undertaken multiple projects on a global scale.</ClientText>
+					<ClientTitle>Our Modules</ClientTitle>
+					<ClientText>We have collaborated on multiple projects at a gloabl scale.</ClientText>
 				</ClientTextWrapper>
 
 				<ClientRow>

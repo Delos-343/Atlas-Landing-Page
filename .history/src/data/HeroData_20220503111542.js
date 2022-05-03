@@ -52,7 +52,7 @@ export const heroFour = {
 		text: 'Photography and Development',
 	},
 	headline: 'E-Commerce Systems',
-	description: 'We take your products and display them beautifully for consumers to purchase.',
+	description: 'We take your products and display them in amazing ways.',
 	buttonLabel: 'View Project',
 
 	linkTo: '/more',

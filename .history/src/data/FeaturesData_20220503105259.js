@@ -17,20 +17,20 @@ export const featuresData = [
 		imgClass: 'one',
 	},
 	{
-		name: 'Iconography',
+		name: 'Icon/Illustration',
 		description: 'Character Design, Icon Sets, Illustration Guides and Templates',
 		icon: iconStyle(GiConcentrationOrb),
 		imgClass: 'two',
 	},
 	{
 		name: 'Branding',
-		description: 'Visual Identity, Copywriting, Content Creation',
+		description: 'Visual Identity, Stationary Kits, Content Creation',
 		icon: iconStyle(IoLogoXing),
 		imgClass: 'three',
 	},
 	{
 		name: 'Development',
-		description: 'HTML/CSS, JavaScript, Figma, Progressive Web Apps',
+		description: 'HTML/CSS, JavaScript, WordPress, Progressive Web Apps',
 		icon: iconStyle(HiCode),
 		imgClass: 'four',
 	},
@@ -42,7 +42,7 @@ export const featuresData = [
 	},
 	{
 		name: 'Photography',
-		description: 'Travel, Wedding, Product Photography',
+		description: 'Travel &' + '{\n}' + 'Product Photography',
 		icon: iconStyle(FaPhotoVideo),
 		imgClass: 'six',
 	},

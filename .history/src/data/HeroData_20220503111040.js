@@ -3,8 +3,8 @@ export const heroOne = {
 	topLine: {
 		text: 'Iconography',
 	},
-	headline: 'User Interface and Experience',
-	description: 'Designing various vectors and web components to match the themes of our clients.',
+	headline: 'Redesigning prisma',
+	description: 'Designing various vectors to match the themes of our clients. Find out more! ',
 	buttonLabel: 'View Project',
 	imgStart: 'start',
 	img: './images/content/rocket.svg',
@@ -52,7 +52,7 @@ export const heroFour = {
 		text: 'Photography and Development',
 	},
 	headline: 'E-Commerce Systems',
-	description: 'We take your products and display them beautifully for consumers to purchase.',
+	description: 'We take your products and display them for customers to purchase.',
 	buttonLabel: 'View Project',
 
 	linkTo: '/more',

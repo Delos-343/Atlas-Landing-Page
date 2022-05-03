@@ -17,14 +17,14 @@ export const featuresData = [
 		imgClass: 'one',
 	},
 	{
-		name: 'Iconography',
+		name: 'Icon/Illustration',
 		description: 'Character Design, Icon Sets, Illustration Guides and Templates',
 		icon: iconStyle(GiConcentrationOrb),
 		imgClass: 'two',
 	},
 	{
 		name: 'Branding',
-		description: 'Visual Identity, Copywriting, Content Creation',
+		description: 'Visual Identity, Stationary Kits, Content Creation',
 		icon: iconStyle(IoLogoXing),
 		imgClass: 'three',
 	},

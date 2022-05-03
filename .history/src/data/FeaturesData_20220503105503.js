@@ -17,7 +17,7 @@ export const featuresData = [
 		imgClass: 'one',
 	},
 	{
-		name: 'Iconography',
+		name: 'Icon/Illustration',
 		description: 'Character Design, Icon Sets, Illustration Guides and Templates',
 		icon: iconStyle(GiConcentrationOrb),
 		imgClass: 'two',
